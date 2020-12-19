@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/fan-t-fukuoka">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fan-t-fukuoka&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/fan-t-fukuoka">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-t-fukuoka&&theme=dracula" />
+</a>
+
